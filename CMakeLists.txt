@@ -6,5 +6,7 @@ add_executable(pattern ./patterns/pattern.c)
 add_executable(triangle ./patterns/triangle.c)
 add_executable(matrix_input ./matrix/matrix_input.c)
 add_executable(diagonal ./matrix/diagonal.c)
+add_executable(transpose ./matrix/transpose.c)
+
 
 

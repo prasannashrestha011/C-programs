@@ -1,0 +1,4 @@
+/mnt/sda1/Projects/C_learning/build/CMakeFiles/pattern.dir
+/mnt/sda1/Projects/C_learning/build/CMakeFiles/triangle.dir
+/mnt/sda1/Projects/C_learning/build/CMakeFiles/edit_cache.dir
+/mnt/sda1/Projects/C_learning/build/CMakeFiles/rebuild_cache.dir

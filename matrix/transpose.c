@@ -2,7 +2,7 @@
 int main() {
   // 4x4 matrix
   int a[2][2], i, j;
-  printf("Enter your numbers to build 4x4 matrix");
+  printf("Enter your numbers to build 2x2 matrix");
   for (i = 0; i < 2; i++) {
     for (j = 0; j < 2; j++) {
       scanf("%d", &a[i][j]);

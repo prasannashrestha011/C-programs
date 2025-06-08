@@ -18,8 +18,6 @@ types of Program errors->
                     }
                   
                    ``` 
-                  Here the program may crash since we are not allowed to divide numerator by 0
-                  The run times error may also occur when we try to access null pointers,accessing index out of array bound
   3.Logical errors->This types of error complie and execute correctly,but the output is incorrect.
                     for example->
                        calSum(){

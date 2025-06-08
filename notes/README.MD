@@ -53,4 +53,11 @@ Here the function sayHello has not been declared in the code.
               Main benefit of this approach is reusability of the codes and foundational understanding of the system.
 
 
+| Aspect               | Top-Down Approach                                                    | Bottom-Up Approach                                                   |
+|----------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| 1. Starting Point    | Begins with the main system and breaks it down into smaller parts.   | Begins with small components and integrates them to build the system.|
+| 2. Design Flow       | Follows a step-wise improvement from higher-level to lower-level.     | Builds from detailed parts toward the complete system.               |
+| 3. Focus             | Focuses on understanding the complete system first.                  | Focuses on developing well-tested modules first.                     |
+| 4. Code Reusability  | Less emphasis on reusability.                                         | Encourages reusability of modules across systems.                    |
+| 5. Common Use        | Used in procedural programming languages (C, COBOL, etc.).            | Used in object-oriented languages (Java, C++, etc.).                 |
 

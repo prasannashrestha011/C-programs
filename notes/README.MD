@@ -29,18 +29,18 @@ types of Program errors->
   4.Linkers errors(Missing function or variabels)->This types of error occurs when we try to call or reference a function or 
                                                   variable that hasnt been defined in the file;
                                                   for example->
-                                                  ```
+```
                                                   int main(){
                                                       sayHello();
                                                    }
 
-                                                  ```
+```
                                                   Here the function sayHello has not been declared in the code;
   5.Semantic errors->Semantic errors are the errors where code runs, but the expected output doesnot occured.It is closely 
                     related to Logical error.It includes #wrong use of operation#,#incorrect data type #.
-                     ```
+```
                       int x="hello";
-                     ```
+```
                       
 
 

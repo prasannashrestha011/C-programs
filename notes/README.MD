@@ -45,11 +45,11 @@ Here the function sayHello has not been declared in the code.
 ```
                       
 ## Q2.What are top down and bottom up approach in programming ?Discuss.Also diff between them.
-## Top down -The top down approch in programming is also called step-wise method.It involves breaking down 
+### Top down ### -The top down approch in programming is also called step-wise method.It involves breaking down 
                      large code into smaller,managable part.This methods starts with broad overview of the system which is 
                      then decomposed into small subsystems and further into individual components such as classes and methods.
                      This approach is commonly used by language likes ## C,COBOL,FORTAN . 
-## Bottom up -In this approach the programs starts with small reusable components which gradually builds up large system                       This approach focuses on developing and testing small modules before integrating them into large system.
+### Bottom up ### -In this approach the programs starts with small reusable components which gradually builds up large system                       This approach focuses on developing and testing small modules before integrating them into large system.
               Main benefit of this approach is reusability of the codes and foundational understanding of the system.
 
 

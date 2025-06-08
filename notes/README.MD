@@ -9,7 +9,7 @@ types of Program errors->
     }
 2. Runtime errors->This types of error occures during program execution.The program is correctly complied,but crashes during 
                   execution.
-<pre> ```c int main() { int a = 10, b = 0, result; result = 10 / 0; } ``` </pre>
+ ```c int main() { int a = 10, b = 0, result; result = 10 / 0; } ``` 
 3.Logical errors->This types of error complie and execute correctly,but the output is incorrect.
                     for example->
                        calSum(){

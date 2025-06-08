@@ -19,10 +19,10 @@ types of Program errors->
 3.Logical errors->This types of error complie and execute correctly,but the output is incorrect.
                     for example->
                       ```c
-                      calSum(){
-                        int a=10,b=5,sum;
-                        sum=a*b;
-                      }
+                          calSum(){
+                            int a=10,b=5,sum;
+                             sum=a*b;
+                          }
         
                       ```
                    In this code , * operator is  used,instead of + for calculating sum which is a logical error.

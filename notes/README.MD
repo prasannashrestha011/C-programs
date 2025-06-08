@@ -18,14 +18,14 @@ types of Program errors->
   ``` 
 3.Logical errors->This types of error complie and execute correctly,but the output is incorrect.
                     for example->
-                      ```
+                      ```c
                       calSum(){
                         int a=10,b=5,sum;
                         sum=a*b;
                       }
         
                       ```
-                   #In this code , * operator is  used,instead of + for calculating sum which is a logical error.
+                   In this code , * operator is  used,instead of + for calculating sum which is a logical error.
   4.Linkers errors(Missing function or variabels)->This types of error occurs when we try to call or reference a function or 
                                                   variable that hasnt been defined in the file;
                                                   for example->
@@ -35,7 +35,7 @@ types of Program errors->
                                                    }
 
                                                   ```
-                                                  #Here the function sayHello has not been declared in the code;
+                                                  Here the function sayHello has not been declared in the code;
   5.Semantic errors->Semantic errors are the errors where code runs, but the expected output doesnot occured.It is closely 
                     related to Logical error.It includes #wrong use of operation#,#incorrect data type #.
                      ```
